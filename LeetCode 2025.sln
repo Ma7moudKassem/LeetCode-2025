@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "88. Merge Sorted Array", "88. Merge Sorted Array\88. Merge Sorted Array.csproj", "{462FAE3E-1502-4669-A08A-8F5ADC58CA5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "27. Remove Element", "27. Remove Element\27. Remove Element.csproj", "{8C5BA19F-3BAB-49B3-9037-B846F3D0AC61}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{462FAE3E-1502-4669-A08A-8F5ADC58CA5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{462FAE3E-1502-4669-A08A-8F5ADC58CA5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{462FAE3E-1502-4669-A08A-8F5ADC58CA5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C5BA19F-3BAB-49B3-9037-B846F3D0AC61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C5BA19F-3BAB-49B3-9037-B846F3D0AC61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C5BA19F-3BAB-49B3-9037-B846F3D0AC61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C5BA19F-3BAB-49B3-9037-B846F3D0AC61}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
