@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "26. Remove Duplicates from 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "169. Majority Element", "169. Majority Element\169. Majority Element.csproj", "{114FF373-E9B3-42C3-9641-2B121E0E13D0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "189. Rotate Array", "189. Rotate Array\189. Rotate Array.csproj", "{53DF30FC-FB2C-454E-A390-648261D1E9DB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{114FF373-E9B3-42C3-9641-2B121E0E13D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{114FF373-E9B3-42C3-9641-2B121E0E13D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{114FF373-E9B3-42C3-9641-2B121E0E13D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53DF30FC-FB2C-454E-A390-648261D1E9DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53DF30FC-FB2C-454E-A390-648261D1E9DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53DF30FC-FB2C-454E-A390-648261D1E9DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53DF30FC-FB2C-454E-A390-648261D1E9DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
