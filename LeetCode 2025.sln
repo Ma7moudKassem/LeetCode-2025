@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "169. Majority Element", "16
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "189. Rotate Array", "189. Rotate Array\189. Rotate Array.csproj", "{53DF30FC-FB2C-454E-A390-648261D1E9DB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "121. Best Time to Buy and Sell Stock", "121. Best Time to Buy and Sell Stock\121. Best Time to Buy and Sell Stock.csproj", "{012B3464-ABC7-452F-AAAF-C58463956EEF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{53DF30FC-FB2C-454E-A390-648261D1E9DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53DF30FC-FB2C-454E-A390-648261D1E9DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{53DF30FC-FB2C-454E-A390-648261D1E9DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{012B3464-ABC7-452F-AAAF-C58463956EEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{012B3464-ABC7-452F-AAAF-C58463956EEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{012B3464-ABC7-452F-AAAF-C58463956EEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{012B3464-ABC7-452F-AAAF-C58463956EEF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
