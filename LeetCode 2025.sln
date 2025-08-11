@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "55. Jump Game", "55. Jump G
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "45. Jump Game II", "45. Jump Game II\45. Jump Game II.csproj", "{39245E55-438D-4C29-98C1-5B4D1A76F7DD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "274. H-Index", "274. H-Index\274. H-Index.csproj", "{9A46F5CC-FD8F-45F0-8DBD-478C2F1F6EDC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{39245E55-438D-4C29-98C1-5B4D1A76F7DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{39245E55-438D-4C29-98C1-5B4D1A76F7DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{39245E55-438D-4C29-98C1-5B4D1A76F7DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A46F5CC-FD8F-45F0-8DBD-478C2F1F6EDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A46F5CC-FD8F-45F0-8DBD-478C2F1F6EDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A46F5CC-FD8F-45F0-8DBD-478C2F1F6EDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A46F5CC-FD8F-45F0-8DBD-478C2F1F6EDC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
