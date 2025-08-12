@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "45. Jump Game II", "45. Jum
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "274. H-Index", "274. H-Index\274. H-Index.csproj", "{9A46F5CC-FD8F-45F0-8DBD-478C2F1F6EDC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "380. Insert Delete GetRandom O(1)", "380. Insert Delete GetRandom O(1)\380. Insert Delete GetRandom O(1).csproj", "{06EC41EF-5C56-4548-B068-9E8EC480B51D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{9A46F5CC-FD8F-45F0-8DBD-478C2F1F6EDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9A46F5CC-FD8F-45F0-8DBD-478C2F1F6EDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9A46F5CC-FD8F-45F0-8DBD-478C2F1F6EDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06EC41EF-5C56-4548-B068-9E8EC480B51D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06EC41EF-5C56-4548-B068-9E8EC480B51D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06EC41EF-5C56-4548-B068-9E8EC480B51D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06EC41EF-5C56-4548-B068-9E8EC480B51D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
