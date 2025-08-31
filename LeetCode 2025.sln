@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "135. Candy", "135. Candy\13
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Two Sum", "1. Two Sum\1. Two Sum.csproj", "{46817686-C32B-41A4-BF11-75CD5395DE5C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "167. Two Sum II - Input Array Is Sorted", "167. Two Sum II - Input Array Is Sorted\167. Two Sum II - Input Array Is Sorted.csproj", "{BDC283BF-32EE-4EA8-BA8E-664E5D9EFCB9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{46817686-C32B-41A4-BF11-75CD5395DE5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46817686-C32B-41A4-BF11-75CD5395DE5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{46817686-C32B-41A4-BF11-75CD5395DE5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDC283BF-32EE-4EA8-BA8E-664E5D9EFCB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDC283BF-32EE-4EA8-BA8E-664E5D9EFCB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDC283BF-32EE-4EA8-BA8E-664E5D9EFCB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDC283BF-32EE-4EA8-BA8E-664E5D9EFCB9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
