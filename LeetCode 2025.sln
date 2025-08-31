@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "380. Insert Delete GetRando
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "134. Gas Station", "134. Gas Station\134. Gas Station.csproj", "{C639C8ED-B754-478E-8616-343E27C070A5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "135. Candy", "135. Candy\135. Candy.csproj", "{3A3F2E0B-7B22-47C3-8E74-9D3FDAF55380}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{C639C8ED-B754-478E-8616-343E27C070A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C639C8ED-B754-478E-8616-343E27C070A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C639C8ED-B754-478E-8616-343E27C070A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A3F2E0B-7B22-47C3-8E74-9D3FDAF55380}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A3F2E0B-7B22-47C3-8E74-9D3FDAF55380}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A3F2E0B-7B22-47C3-8E74-9D3FDAF55380}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A3F2E0B-7B22-47C3-8E74-9D3FDAF55380}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
