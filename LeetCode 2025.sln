@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Two Sum", "1. Two Sum\1.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "167. Two Sum II - Input Array Is Sorted", "167. Two Sum II - Input Array Is Sorted\167. Two Sum II - Input Array Is Sorted.csproj", "{BDC283BF-32EE-4EA8-BA8E-664E5D9EFCB9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "42. Trapping Rain Water", "42. Trapping Rain Water\42. Trapping Rain Water.csproj", "{1DC00CCD-9605-4D3F-88F8-761C73C2C527}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{BDC283BF-32EE-4EA8-BA8E-664E5D9EFCB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BDC283BF-32EE-4EA8-BA8E-664E5D9EFCB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BDC283BF-32EE-4EA8-BA8E-664E5D9EFCB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DC00CCD-9605-4D3F-88F8-761C73C2C527}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DC00CCD-9605-4D3F-88F8-761C73C2C527}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DC00CCD-9605-4D3F-88F8-761C73C2C527}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DC00CCD-9605-4D3F-88F8-761C73C2C527}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
