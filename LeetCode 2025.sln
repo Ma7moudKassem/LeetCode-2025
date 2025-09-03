@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "167. Two Sum II - Input Arr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "42. Trapping Rain Water", "42. Trapping Rain Water\42. Trapping Rain Water.csproj", "{1DC00CCD-9605-4D3F-88F8-761C73C2C527}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13. Roman to Integer", "13. Roman to Integer\13. Roman to Integer.csproj", "{D8B7DC66-79B2-4794-9AA4-0929F0043D00}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,8 +107,15 @@ Global
 		{1DC00CCD-9605-4D3F-88F8-761C73C2C527}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1DC00CCD-9605-4D3F-88F8-761C73C2C527}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1DC00CCD-9605-4D3F-88F8-761C73C2C527}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8B7DC66-79B2-4794-9AA4-0929F0043D00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8B7DC66-79B2-4794-9AA4-0929F0043D00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8B7DC66-79B2-4794-9AA4-0929F0043D00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8B7DC66-79B2-4794-9AA4-0929F0043D00}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D241B29A-3F0B-43D4-B9D7-D7F59B6A3C5B}
 	EndGlobalSection
 EndGlobal
