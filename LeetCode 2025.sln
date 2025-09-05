@@ -37,6 +37,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "42. Trapping Rain Water", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13. Roman to Integer", "13. Roman to Integer\13. Roman to Integer.csproj", "{D8B7DC66-79B2-4794-9AA4-0929F0043D00}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12. Integer to Roman", "12. Integer to Roman\12. Integer to Roman.csproj", "{3851C335-29EB-4EFC-845F-B58938482B19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "58. Length of Last Word", "58. Length of Last Word\58. Length of Last Word.csproj", "{4E518EBF-65F8-4652-B01E-7391F4064463}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +115,14 @@ Global
 		{D8B7DC66-79B2-4794-9AA4-0929F0043D00}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D8B7DC66-79B2-4794-9AA4-0929F0043D00}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D8B7DC66-79B2-4794-9AA4-0929F0043D00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3851C335-29EB-4EFC-845F-B58938482B19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3851C335-29EB-4EFC-845F-B58938482B19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3851C335-29EB-4EFC-845F-B58938482B19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3851C335-29EB-4EFC-845F-B58938482B19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E518EBF-65F8-4652-B01E-7391F4064463}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E518EBF-65F8-4652-B01E-7391F4064463}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E518EBF-65F8-4652-B01E-7391F4064463}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E518EBF-65F8-4652-B01E-7391F4064463}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
