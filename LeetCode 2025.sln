@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "28. Find the Index of the F
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "125. Valid Palindrome", "125. Valid Palindrome\125. Valid Palindrome.csproj", "{17A834FF-5E53-46FF-A42D-D4031992BEFB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "392. Is Subsequence", "392. Is Subsequence\392. Is Subsequence.csproj", "{F407E534-8B56-4FF3-8409-F4702FA87468}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{17A834FF-5E53-46FF-A42D-D4031992BEFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17A834FF-5E53-46FF-A42D-D4031992BEFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17A834FF-5E53-46FF-A42D-D4031992BEFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F407E534-8B56-4FF3-8409-F4702FA87468}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F407E534-8B56-4FF3-8409-F4702FA87468}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F407E534-8B56-4FF3-8409-F4702FA87468}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F407E534-8B56-4FF3-8409-F4702FA87468}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
