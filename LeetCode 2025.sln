@@ -57,6 +57,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. Container With Most Wat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15. 3Sum", "15. 3Sum\15. 3Sum.csproj", "{45AC3D1A-21CE-4017-ABA1-00428700724D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "209. Minimum Size Subarray Sum", "209. Minimum Size Subarray Sum\209. Minimum Size Subarray Sum.csproj", "{EDC7C310-D2DA-4012-8C78-ED8CEE194973}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -171,6 +173,10 @@ Global
 		{45AC3D1A-21CE-4017-ABA1-00428700724D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45AC3D1A-21CE-4017-ABA1-00428700724D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45AC3D1A-21CE-4017-ABA1-00428700724D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDC7C310-D2DA-4012-8C78-ED8CEE194973}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDC7C310-D2DA-4012-8C78-ED8CEE194973}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDC7C310-D2DA-4012-8C78-ED8CEE194973}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDC7C310-D2DA-4012-8C78-ED8CEE194973}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
