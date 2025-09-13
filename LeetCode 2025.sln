@@ -53,6 +53,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "125. Valid Palindrome", "12
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "392. Is Subsequence", "392. Is Subsequence\392. Is Subsequence.csproj", "{F407E534-8B56-4FF3-8409-F4702FA87468}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. Container With Most Water", "11. Container With Most Water\11. Container With Most Water.csproj", "{D345B827-1B79-4D79-8BDE-2AE12B1D67EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15. 3Sum", "15. 3Sum\15. 3Sum.csproj", "{45AC3D1A-21CE-4017-ABA1-00428700724D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +163,14 @@ Global
 		{F407E534-8B56-4FF3-8409-F4702FA87468}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F407E534-8B56-4FF3-8409-F4702FA87468}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F407E534-8B56-4FF3-8409-F4702FA87468}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D345B827-1B79-4D79-8BDE-2AE12B1D67EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D345B827-1B79-4D79-8BDE-2AE12B1D67EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D345B827-1B79-4D79-8BDE-2AE12B1D67EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D345B827-1B79-4D79-8BDE-2AE12B1D67EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45AC3D1A-21CE-4017-ABA1-00428700724D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45AC3D1A-21CE-4017-ABA1-00428700724D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45AC3D1A-21CE-4017-ABA1-00428700724D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45AC3D1A-21CE-4017-ABA1-00428700724D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
