@@ -71,6 +71,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "48. Rotate Image", "48. Rot
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "73. Set Matrix Zeroes", "73. Set Matrix Zeroes\73. Set Matrix Zeroes.csproj", "{5B6D3045-3874-474E-AD86-011654BF89EA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "383. Ransom Note", "383. Ransom Note\383. Ransom Note.csproj", "{2B8E7153-FBFE-445B-849F-614CF7A97661}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -213,6 +215,10 @@ Global
 		{5B6D3045-3874-474E-AD86-011654BF89EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B6D3045-3874-474E-AD86-011654BF89EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B6D3045-3874-474E-AD86-011654BF89EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B8E7153-FBFE-445B-849F-614CF7A97661}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B8E7153-FBFE-445B-849F-614CF7A97661}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B8E7153-FBFE-445B-849F-614CF7A97661}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B8E7153-FBFE-445B-849F-614CF7A97661}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
