@@ -79,6 +79,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "290. Word Pattern", "290. W
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "242. Valid Anagram", "242. Valid Anagram\242. Valid Anagram.csproj", "{539B5D57-2841-41F3-9F53-11D6A87CFFA1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "219. Contains Duplicate II", "219. Contains Duplicate II\219. Contains Duplicate II.csproj", "{432A2AA1-37B7-4A76-A96B-008F2A125323}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -237,6 +239,10 @@ Global
 		{539B5D57-2841-41F3-9F53-11D6A87CFFA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{539B5D57-2841-41F3-9F53-11D6A87CFFA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{539B5D57-2841-41F3-9F53-11D6A87CFFA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{432A2AA1-37B7-4A76-A96B-008F2A125323}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{432A2AA1-37B7-4A76-A96B-008F2A125323}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{432A2AA1-37B7-4A76-A96B-008F2A125323}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{432A2AA1-37B7-4A76-A96B-008F2A125323}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
