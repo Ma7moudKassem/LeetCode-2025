@@ -89,6 +89,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "128. Longest Consecutive Se
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "228. Summary Ranges", "228. Summary Ranges\228. Summary Ranges.csproj", "{022EC85B-AD01-4CF2-9FEE-7C4EE898366A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "56. Merge Intervals", "56. Merge Intervals\56. Merge Intervals.csproj", "{CA824737-50B6-40C6-8B27-E6983ED1299A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -267,6 +269,10 @@ Global
 		{022EC85B-AD01-4CF2-9FEE-7C4EE898366A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{022EC85B-AD01-4CF2-9FEE-7C4EE898366A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{022EC85B-AD01-4CF2-9FEE-7C4EE898366A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA824737-50B6-40C6-8B27-E6983ED1299A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA824737-50B6-40C6-8B27-E6983ED1299A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA824737-50B6-40C6-8B27-E6983ED1299A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA824737-50B6-40C6-8B27-E6983ED1299A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
