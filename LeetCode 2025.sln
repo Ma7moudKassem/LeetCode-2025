@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "71. Simplify Path", "71. Si
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "155. Min Stack", "155. Min Stack\155. Min Stack.csproj", "{6DFC0706-917B-47FC-85E0-3D7A9960045F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "225. Implement Stack using Queues", "225. Implement Stack using Queues\225. Implement Stack using Queues.csproj", "{FA49D404-A641-4A8D-B6DB-9A5B230D7959}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "150. Evaluate Reverse Polish Notation", "150. Evaluate Reverse Polish Notation\150. Evaluate Reverse Polish Notation.csproj", "{9FDD298C-8C3A-4210-BEDA-B5B6B0BFF4BA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{6DFC0706-917B-47FC-85E0-3D7A9960045F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6DFC0706-917B-47FC-85E0-3D7A9960045F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6DFC0706-917B-47FC-85E0-3D7A9960045F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA49D404-A641-4A8D-B6DB-9A5B230D7959}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA49D404-A641-4A8D-B6DB-9A5B230D7959}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA49D404-A641-4A8D-B6DB-9A5B230D7959}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA49D404-A641-4A8D-B6DB-9A5B230D7959}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FDD298C-8C3A-4210-BEDA-B5B6B0BFF4BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FDD298C-8C3A-4210-BEDA-B5B6B0BFF4BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FDD298C-8C3A-4210-BEDA-B5B6B0BFF4BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FDD298C-8C3A-4210-BEDA-B5B6B0BFF4BA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
