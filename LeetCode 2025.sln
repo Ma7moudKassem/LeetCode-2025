@@ -11,6 +11,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "225. Implement Stack using 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "150. Evaluate Reverse Polish Notation", "150. Evaluate Reverse Polish Notation\150. Evaluate Reverse Polish Notation.csproj", "{9FDD298C-8C3A-4210-BEDA-B5B6B0BFF4BA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "224. Basic Calculator", "224. Basic Calculator\224. Basic Calculator.csproj", "{7047E821-6E6B-42C5-A001-FED13126A1DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "227. Basic Calculator II", "227. Basic Calculator II\227. Basic Calculator II.csproj", "{3C512BF7-8936-4CE6-AB72-A3791E1823BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18. 4Sum", "18. 4Sum\18. 4Sum.csproj", "{8361A034-4AB5-445B-BB7D-F10F0EFB44DC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +39,18 @@ Global
 		{9FDD298C-8C3A-4210-BEDA-B5B6B0BFF4BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9FDD298C-8C3A-4210-BEDA-B5B6B0BFF4BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9FDD298C-8C3A-4210-BEDA-B5B6B0BFF4BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7047E821-6E6B-42C5-A001-FED13126A1DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7047E821-6E6B-42C5-A001-FED13126A1DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7047E821-6E6B-42C5-A001-FED13126A1DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7047E821-6E6B-42C5-A001-FED13126A1DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C512BF7-8936-4CE6-AB72-A3791E1823BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C512BF7-8936-4CE6-AB72-A3791E1823BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C512BF7-8936-4CE6-AB72-A3791E1823BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C512BF7-8936-4CE6-AB72-A3791E1823BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8361A034-4AB5-445B-BB7D-F10F0EFB44DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8361A034-4AB5-445B-BB7D-F10F0EFB44DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8361A034-4AB5-445B-BB7D-F10F0EFB44DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8361A034-4AB5-445B-BB7D-F10F0EFB44DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
