@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8. String to Integer (atoi)
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "560. Subarray Sum Equals K", "560. Subarray Sum Equals K\560. Subarray Sum Equals K.csproj", "{B6FE3678-3F7C-4C14-A0AF-4D9809306B5B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1524. Number of Sub-arrays With Odd Sum", "1524. Number of Sub-arrays With Odd Sum\1524. Number of Sub-arrays With Odd Sum.csproj", "{1699AACC-7B9F-418D-AA1E-391B3E9BEDA5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{B6FE3678-3F7C-4C14-A0AF-4D9809306B5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6FE3678-3F7C-4C14-A0AF-4D9809306B5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B6FE3678-3F7C-4C14-A0AF-4D9809306B5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1699AACC-7B9F-418D-AA1E-391B3E9BEDA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1699AACC-7B9F-418D-AA1E-391B3E9BEDA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1699AACC-7B9F-418D-AA1E-391B3E9BEDA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1699AACC-7B9F-418D-AA1E-391B3E9BEDA5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
