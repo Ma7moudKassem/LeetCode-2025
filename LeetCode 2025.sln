@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "287. Find the Duplicate Num
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "268. Missing Number", "268. Missing Number\268. Missing Number.csproj", "{BF1B8736-654A-4F66-8D8F-C11290CD7624}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Add Two Numbers", "2. Add Two Numbers\2. Add Two Numbers.csproj", "{9AF3FE9E-6A51-40E7-9455-C48104E79DEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "371. Sum of Two Integers", "371. Sum of Two Integers\371. Sum of Two Integers.csproj", "{627818BC-CADB-49D1-856D-0B2BDEF24247}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{BF1B8736-654A-4F66-8D8F-C11290CD7624}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF1B8736-654A-4F66-8D8F-C11290CD7624}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF1B8736-654A-4F66-8D8F-C11290CD7624}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AF3FE9E-6A51-40E7-9455-C48104E79DEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AF3FE9E-6A51-40E7-9455-C48104E79DEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AF3FE9E-6A51-40E7-9455-C48104E79DEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AF3FE9E-6A51-40E7-9455-C48104E79DEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{627818BC-CADB-49D1-856D-0B2BDEF24247}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{627818BC-CADB-49D1-856D-0B2BDEF24247}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{627818BC-CADB-49D1-856D-0B2BDEF24247}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{627818BC-CADB-49D1-856D-0B2BDEF24247}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
