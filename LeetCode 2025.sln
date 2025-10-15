@@ -5,6 +5,14 @@ VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "904. Fruit Into Baskets", "904. Fruit Into Baskets\904. Fruit Into Baskets.csproj", "{3FFC44A8-1081-4D1A-87D1-4DED8DB68627}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "141. Linked List Cycle", "141. Linked List Cycle\141. Linked List Cycle.csproj", "{5E60719D-CBDB-44A7-A7C8-BBBE07C6C5B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "142. Linked List Cycle II", "142. Linked List Cycle II\142. Linked List Cycle II.csproj", "{2CA7D9F4-D833-4228-B227-420C8B768819}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "287. Find the Duplicate Number", "287. Find the Duplicate Number\287. Find the Duplicate Number.csproj", "{B42AF4F6-3378-4F64-B76F-08F0DD1C18F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "268. Missing Number", "268. Missing Number\268. Missing Number.csproj", "{BF1B8736-654A-4F66-8D8F-C11290CD7624}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +23,22 @@ Global
 		{3FFC44A8-1081-4D1A-87D1-4DED8DB68627}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3FFC44A8-1081-4D1A-87D1-4DED8DB68627}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3FFC44A8-1081-4D1A-87D1-4DED8DB68627}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E60719D-CBDB-44A7-A7C8-BBBE07C6C5B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E60719D-CBDB-44A7-A7C8-BBBE07C6C5B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E60719D-CBDB-44A7-A7C8-BBBE07C6C5B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E60719D-CBDB-44A7-A7C8-BBBE07C6C5B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CA7D9F4-D833-4228-B227-420C8B768819}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CA7D9F4-D833-4228-B227-420C8B768819}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CA7D9F4-D833-4228-B227-420C8B768819}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CA7D9F4-D833-4228-B227-420C8B768819}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B42AF4F6-3378-4F64-B76F-08F0DD1C18F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B42AF4F6-3378-4F64-B76F-08F0DD1C18F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B42AF4F6-3378-4F64-B76F-08F0DD1C18F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B42AF4F6-3378-4F64-B76F-08F0DD1C18F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF1B8736-654A-4F66-8D8F-C11290CD7624}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF1B8736-654A-4F66-8D8F-C11290CD7624}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF1B8736-654A-4F66-8D8F-C11290CD7624}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF1B8736-654A-4F66-8D8F-C11290CD7624}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
