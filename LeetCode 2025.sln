@@ -27,6 +27,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helpers", "Helpers\Helpers.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "206. Reverse Linked List", "206. Reverse Linked List\206. Reverse Linked List.csproj", "{9AB5C3BB-EA3E-4F67-8AC5-32FAA14F6C44}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "92. Reverse Linked List II", "92. Reverse Linked List II\92. Reverse Linked List II.csproj", "{292144DF-7298-48C7-A16E-AB46DA4A7856}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "82. Remove Duplicates from Sorted List II", "82. Remove Duplicates from Sorted List II\82. Remove Duplicates from Sorted List II.csproj", "{0B32DC68-C61C-4179-9286-D7D8D1CA29E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "61. Rotate List", "61. Rotate List\61. Rotate List.csproj", "{139E22A4-EB26-4408-ADDD-A7EBCFA62EC2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -77,6 +83,18 @@ Global
 		{9AB5C3BB-EA3E-4F67-8AC5-32FAA14F6C44}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9AB5C3BB-EA3E-4F67-8AC5-32FAA14F6C44}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9AB5C3BB-EA3E-4F67-8AC5-32FAA14F6C44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{292144DF-7298-48C7-A16E-AB46DA4A7856}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{292144DF-7298-48C7-A16E-AB46DA4A7856}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{292144DF-7298-48C7-A16E-AB46DA4A7856}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{292144DF-7298-48C7-A16E-AB46DA4A7856}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B32DC68-C61C-4179-9286-D7D8D1CA29E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B32DC68-C61C-4179-9286-D7D8D1CA29E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B32DC68-C61C-4179-9286-D7D8D1CA29E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B32DC68-C61C-4179-9286-D7D8D1CA29E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{139E22A4-EB26-4408-ADDD-A7EBCFA62EC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{139E22A4-EB26-4408-ADDD-A7EBCFA62EC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{139E22A4-EB26-4408-ADDD-A7EBCFA62EC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{139E22A4-EB26-4408-ADDD-A7EBCFA62EC2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
