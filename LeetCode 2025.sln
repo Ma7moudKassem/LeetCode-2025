@@ -19,6 +19,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "371. Sum of Two Integers", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21. Merge Two Sorted Lists", "21. Merge Two Sorted Lists\21. Merge Two Sorted Lists.csproj", "{043CBA03-0924-4FD2-9EA2-DFF9BAB6764F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "138. Copy List with Random Pointer", "138. Copy List with Random Pointer\138. Copy List with Random Pointer.csproj", "{EF7A6E7F-48B1-47EB-8372-156ABF762AA5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Helpers", "Helpers", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helpers", "Helpers\Helpers.csproj", "{1A3F77A6-AF09-4AC0-B9B3-58ECEFECA8B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "206. Reverse Linked List", "206. Reverse Linked List\206. Reverse Linked List.csproj", "{9AB5C3BB-EA3E-4F67-8AC5-32FAA14F6C44}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,9 +65,24 @@ Global
 		{043CBA03-0924-4FD2-9EA2-DFF9BAB6764F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{043CBA03-0924-4FD2-9EA2-DFF9BAB6764F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{043CBA03-0924-4FD2-9EA2-DFF9BAB6764F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF7A6E7F-48B1-47EB-8372-156ABF762AA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF7A6E7F-48B1-47EB-8372-156ABF762AA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF7A6E7F-48B1-47EB-8372-156ABF762AA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF7A6E7F-48B1-47EB-8372-156ABF762AA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A3F77A6-AF09-4AC0-B9B3-58ECEFECA8B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A3F77A6-AF09-4AC0-B9B3-58ECEFECA8B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A3F77A6-AF09-4AC0-B9B3-58ECEFECA8B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A3F77A6-AF09-4AC0-B9B3-58ECEFECA8B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AB5C3BB-EA3E-4F67-8AC5-32FAA14F6C44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AB5C3BB-EA3E-4F67-8AC5-32FAA14F6C44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AB5C3BB-EA3E-4F67-8AC5-32FAA14F6C44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AB5C3BB-EA3E-4F67-8AC5-32FAA14F6C44}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1A3F77A6-AF09-4AC0-B9B3-58ECEFECA8B8} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D241B29A-3F0B-43D4-B9D7-D7F59B6A3C5B}
