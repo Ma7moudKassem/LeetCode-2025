@@ -33,6 +33,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "82. Remove Duplicates from 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "61. Rotate List", "61. Rotate List\61. Rotate List.csproj", "{139E22A4-EB26-4408-ADDD-A7EBCFA62EC2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1052. Grumpy Bookstore Owner", "1052. Grumpy Bookstore Owner\1052. Grumpy Bookstore Owner.csproj", "{3C8B7CF3-C6B3-4F8F-B0B9-97B2737A4161}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "713. Subarray Product Less Than K", "713. Subarray Product Less Than K\713. Subarray Product Less Than K.csproj", "{3E3A86A4-F23B-4302-B57D-13D86A591630}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1310. XOR Queries of a Subarray", "1310. XOR Queries of a Subarray\1310. XOR Queries of a Subarray.csproj", "{322C5E4C-EAC9-4F7F-AE77-4C1D1D947D96}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -95,6 +101,18 @@ Global
 		{139E22A4-EB26-4408-ADDD-A7EBCFA62EC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{139E22A4-EB26-4408-ADDD-A7EBCFA62EC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{139E22A4-EB26-4408-ADDD-A7EBCFA62EC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C8B7CF3-C6B3-4F8F-B0B9-97B2737A4161}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C8B7CF3-C6B3-4F8F-B0B9-97B2737A4161}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C8B7CF3-C6B3-4F8F-B0B9-97B2737A4161}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C8B7CF3-C6B3-4F8F-B0B9-97B2737A4161}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E3A86A4-F23B-4302-B57D-13D86A591630}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E3A86A4-F23B-4302-B57D-13D86A591630}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E3A86A4-F23B-4302-B57D-13D86A591630}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E3A86A4-F23B-4302-B57D-13D86A591630}.Release|Any CPU.Build.0 = Release|Any CPU
+		{322C5E4C-EAC9-4F7F-AE77-4C1D1D947D96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{322C5E4C-EAC9-4F7F-AE77-4C1D1D947D96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{322C5E4C-EAC9-4F7F-AE77-4C1D1D947D96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{322C5E4C-EAC9-4F7F-AE77-4C1D1D947D96}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
