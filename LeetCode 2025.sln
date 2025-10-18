@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "713. Subarray Product Less 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1310. XOR Queries of a Subarray", "1310. XOR Queries of a Subarray\1310. XOR Queries of a Subarray.csproj", "{322C5E4C-EAC9-4F7F-AE77-4C1D1D947D96}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1480. Running Sum of 1d Array", "1480. Running Sum of 1d Array\1480. Running Sum of 1d Array.csproj", "{B903B7C6-E25E-40A8-B568-E1B92AB2D895}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -113,6 +115,10 @@ Global
 		{322C5E4C-EAC9-4F7F-AE77-4C1D1D947D96}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{322C5E4C-EAC9-4F7F-AE77-4C1D1D947D96}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{322C5E4C-EAC9-4F7F-AE77-4C1D1D947D96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B903B7C6-E25E-40A8-B568-E1B92AB2D895}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B903B7C6-E25E-40A8-B568-E1B92AB2D895}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B903B7C6-E25E-40A8-B568-E1B92AB2D895}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B903B7C6-E25E-40A8-B568-E1B92AB2D895}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
