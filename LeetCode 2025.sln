@@ -45,6 +45,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "724. Find Pivot Index", "72
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "238. Product of Array Except Self", "238. Product of Array Except Self\238. Product of Array Except Self.csproj", "{61A77F0A-F3CE-4FB4-9D52-E947E505D531}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "560. Subarray Sum Equals K-2", "560. Subarray Sum Equals K-2\560. Subarray Sum Equals K-2.csproj", "{DD914712-CD13-4D4F-BDB2-88AD5D2943FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1625. Lexicographically Smallest String After Applying Operations", "1625. Lexicographically Smallest String After Applying Operations\1625. Lexicographically Smallest String After Applying Operations.csproj", "{25A11E0E-A1A7-4040-A930-1369E993D932}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2011. Final Value of Variable After Performing Operations", "2011. Final Value of Variable After Performing Operations\2011. Final Value of Variable After Performing Operations.csproj", "{42F8CE61-49F2-4F85-A06F-E8D23A0DF679}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16. 3Sum Closest", "16. 3Sum Closest\16. 3Sum Closest.csproj", "{6910132D-298C-4836-9AFF-5747B06AFC1A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -131,6 +139,22 @@ Global
 		{61A77F0A-F3CE-4FB4-9D52-E947E505D531}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{61A77F0A-F3CE-4FB4-9D52-E947E505D531}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{61A77F0A-F3CE-4FB4-9D52-E947E505D531}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD914712-CD13-4D4F-BDB2-88AD5D2943FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD914712-CD13-4D4F-BDB2-88AD5D2943FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD914712-CD13-4D4F-BDB2-88AD5D2943FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD914712-CD13-4D4F-BDB2-88AD5D2943FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25A11E0E-A1A7-4040-A930-1369E993D932}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25A11E0E-A1A7-4040-A930-1369E993D932}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25A11E0E-A1A7-4040-A930-1369E993D932}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25A11E0E-A1A7-4040-A930-1369E993D932}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42F8CE61-49F2-4F85-A06F-E8D23A0DF679}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42F8CE61-49F2-4F85-A06F-E8D23A0DF679}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42F8CE61-49F2-4F85-A06F-E8D23A0DF679}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42F8CE61-49F2-4F85-A06F-E8D23A0DF679}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6910132D-298C-4836-9AFF-5747B06AFC1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6910132D-298C-4836-9AFF-5747B06AFC1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6910132D-298C-4836-9AFF-5747B06AFC1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6910132D-298C-4836-9AFF-5747B06AFC1A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
