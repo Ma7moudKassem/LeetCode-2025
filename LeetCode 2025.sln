@@ -9,6 +9,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helpers", "Helpers\Helpers.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1754. Largest Merge Of Two Strings", "1754. Largest Merge Of Two Strings\1754. Largest Merge Of Two Strings.csproj", "{980F46DA-6CD3-4261-A580-0800756E8770}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3461. Check If Digits Are Equal in String After Operations I", "3461. Check If Digits Are Equal in String After Operations I\3461. Check If Digits Are Equal in String After Operations I.csproj", "{D4AC0F3C-643E-41CA-86C8-175179158A70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2048. Next Greater Numerically Balanced Number", "2048. Next Greater Numerically Balanced Number\2048. Next Greater Numerically Balanced Number.csproj", "{E8646104-5BF2-4361-B28F-A676C80F2D70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1089. Duplicate Zeros", "1089. Duplicate Zeros\1089. Duplicate Zeros.csproj", "{7A23CD9D-FCDD-4B28-BCDA-84D923CBAC3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2043. Simple Bank System", "2043. Simple Bank System\2043. Simple Bank System.csproj", "{35D0DC55-AF43-4DE2-9B3B-3E786436D0B9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +31,22 @@ Global
 		{980F46DA-6CD3-4261-A580-0800756E8770}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{980F46DA-6CD3-4261-A580-0800756E8770}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{980F46DA-6CD3-4261-A580-0800756E8770}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4AC0F3C-643E-41CA-86C8-175179158A70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4AC0F3C-643E-41CA-86C8-175179158A70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4AC0F3C-643E-41CA-86C8-175179158A70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4AC0F3C-643E-41CA-86C8-175179158A70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8646104-5BF2-4361-B28F-A676C80F2D70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8646104-5BF2-4361-B28F-A676C80F2D70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8646104-5BF2-4361-B28F-A676C80F2D70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8646104-5BF2-4361-B28F-A676C80F2D70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A23CD9D-FCDD-4B28-BCDA-84D923CBAC3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A23CD9D-FCDD-4B28-BCDA-84D923CBAC3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A23CD9D-FCDD-4B28-BCDA-84D923CBAC3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A23CD9D-FCDD-4B28-BCDA-84D923CBAC3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35D0DC55-AF43-4DE2-9B3B-3E786436D0B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35D0DC55-AF43-4DE2-9B3B-3E786436D0B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35D0DC55-AF43-4DE2-9B3B-3E786436D0B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35D0DC55-AF43-4DE2-9B3B-3E786436D0B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
