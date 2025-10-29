@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3370. Smallest Number With 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "104. Maximum Depth of Binary Tree", "104. Maximum Depth of Binary Tree\104. Maximum Depth of Binary Tree.csproj", "{5040EBA2-FE58-4002-A633-874EB7BDD93E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "100. Same Tree", "100. Same Tree\100. Same Tree.csproj", "{2F094426-CE50-4F1A-873B-A05914EAEBBA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -53,6 +55,10 @@ Global
 		{5040EBA2-FE58-4002-A633-874EB7BDD93E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5040EBA2-FE58-4002-A633-874EB7BDD93E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5040EBA2-FE58-4002-A633-874EB7BDD93E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F094426-CE50-4F1A-873B-A05914EAEBBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F094426-CE50-4F1A-873B-A05914EAEBBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F094426-CE50-4F1A-873B-A05914EAEBBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F094426-CE50-4F1A-873B-A05914EAEBBA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
