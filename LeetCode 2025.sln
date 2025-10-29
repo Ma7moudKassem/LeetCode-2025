@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2043. Simple Bank System", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2241. Design an ATM Machine", "2241. Design an ATM Machine\2241. Design an ATM Machine.csproj", "{E1309A72-BFAA-42FB-B1A6-89FA43DA63EC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3370. Smallest Number With All Set Bits", "3370. Smallest Number With All Set Bits\3370. Smallest Number With All Set Bits.csproj", "{E9AD5995-BE1B-4BAE-A8E4-527E50EA578F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +43,10 @@ Global
 		{E1309A72-BFAA-42FB-B1A6-89FA43DA63EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E1309A72-BFAA-42FB-B1A6-89FA43DA63EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E1309A72-BFAA-42FB-B1A6-89FA43DA63EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9AD5995-BE1B-4BAE-A8E4-527E50EA578F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9AD5995-BE1B-4BAE-A8E4-527E50EA578F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9AD5995-BE1B-4BAE-A8E4-527E50EA578F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9AD5995-BE1B-4BAE-A8E4-527E50EA578F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
