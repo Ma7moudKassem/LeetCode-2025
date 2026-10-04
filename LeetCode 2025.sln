@@ -1,25 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113
+# Visual Studio Version 18
+VisualStudioVersion = 18.10.12224.181 stable
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Helpers", "Helpers", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helpers", "Helpers\Helpers.csproj", "{1A3F77A6-AF09-4AC0-B9B3-58ECEFECA8B8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1754. Largest Merge Of Two Strings", "1754. Largest Merge Of Two Strings\1754. Largest Merge Of Two Strings.csproj", "{980F46DA-6CD3-4261-A580-0800756E8770}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3461. Check If Digits Are Equal in String After Operations I", "3461. Check If Digits Are Equal in String After Operations I\3461. Check If Digits Are Equal in String After Operations I.csproj", "{D4AC0F3C-643E-41CA-86C8-175179158A70}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2043. Simple Bank System", "2043. Simple Bank System\2043. Simple Bank System.csproj", "{35D0DC55-AF43-4DE2-9B3B-3E786436D0B9}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2241. Design an ATM Machine", "2241. Design an ATM Machine\2241. Design an ATM Machine.csproj", "{E1309A72-BFAA-42FB-B1A6-89FA43DA63EC}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3370. Smallest Number With All Set Bits", "3370. Smallest Number With All Set Bits\3370. Smallest Number With All Set Bits.csproj", "{E9AD5995-BE1B-4BAE-A8E4-527E50EA578F}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "104. Maximum Depth of Binary Tree", "104. Maximum Depth of Binary Tree\104. Maximum Depth of Binary Tree.csproj", "{5040EBA2-FE58-4002-A633-874EB7BDD93E}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "100. Same Tree", "100. Same Tree\100. Same Tree.csproj", "{2F094426-CE50-4F1A-873B-A05914EAEBBA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1340. Jump Game V", "1340. Jump Game V\1340. Jump Game V.csproj", "{E1E35AF7-5540-4AAB-99A3-48009A2EBBAF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,34 +19,10 @@ Global
 		{1A3F77A6-AF09-4AC0-B9B3-58ECEFECA8B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A3F77A6-AF09-4AC0-B9B3-58ECEFECA8B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A3F77A6-AF09-4AC0-B9B3-58ECEFECA8B8}.Release|Any CPU.Build.0 = Release|Any CPU
-		{980F46DA-6CD3-4261-A580-0800756E8770}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{980F46DA-6CD3-4261-A580-0800756E8770}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{980F46DA-6CD3-4261-A580-0800756E8770}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{980F46DA-6CD3-4261-A580-0800756E8770}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D4AC0F3C-643E-41CA-86C8-175179158A70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D4AC0F3C-643E-41CA-86C8-175179158A70}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D4AC0F3C-643E-41CA-86C8-175179158A70}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D4AC0F3C-643E-41CA-86C8-175179158A70}.Release|Any CPU.Build.0 = Release|Any CPU
-		{35D0DC55-AF43-4DE2-9B3B-3E786436D0B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{35D0DC55-AF43-4DE2-9B3B-3E786436D0B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{35D0DC55-AF43-4DE2-9B3B-3E786436D0B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{35D0DC55-AF43-4DE2-9B3B-3E786436D0B9}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E1309A72-BFAA-42FB-B1A6-89FA43DA63EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E1309A72-BFAA-42FB-B1A6-89FA43DA63EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E1309A72-BFAA-42FB-B1A6-89FA43DA63EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E1309A72-BFAA-42FB-B1A6-89FA43DA63EC}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E9AD5995-BE1B-4BAE-A8E4-527E50EA578F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E9AD5995-BE1B-4BAE-A8E4-527E50EA578F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E9AD5995-BE1B-4BAE-A8E4-527E50EA578F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E9AD5995-BE1B-4BAE-A8E4-527E50EA578F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{5040EBA2-FE58-4002-A633-874EB7BDD93E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5040EBA2-FE58-4002-A633-874EB7BDD93E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5040EBA2-FE58-4002-A633-874EB7BDD93E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5040EBA2-FE58-4002-A633-874EB7BDD93E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{2F094426-CE50-4F1A-873B-A05914EAEBBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2F094426-CE50-4F1A-873B-A05914EAEBBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2F094426-CE50-4F1A-873B-A05914EAEBBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2F094426-CE50-4F1A-873B-A05914EAEBBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1E35AF7-5540-4AAB-99A3-48009A2EBBAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1E35AF7-5540-4AAB-99A3-48009A2EBBAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1E35AF7-5540-4AAB-99A3-48009A2EBBAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1E35AF7-5540-4AAB-99A3-48009A2EBBAF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
