@@ -1,13 +1,21 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 18
-VisualStudioVersion = 18.10.12224.181 stable
+VisualStudioVersion = 18.10.12224.181
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Helpers", "Helpers", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helpers", "Helpers\Helpers.csproj", "{1A3F77A6-AF09-4AC0-B9B3-58ECEFECA8B8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1340. Jump Game V", "1340. Jump Game V\1340. Jump Game V.csproj", "{E1E35AF7-5540-4AAB-99A3-48009A2EBBAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "975. Odd Even Jump", "975. Odd Even Jump\975. Odd Even Jump.csproj", "{EF84986A-E3CF-400A-BB50-B17D17A04F35}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Competitive Programming", "Competitive Programming", "{C18158F3-FF5F-436F-8B84-386919D789D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prefix Function", "Competitive Programming\Prefix Function\Prefix Function.csproj", "{59FC8952-E531-4481-969F-BD97015A21C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "214. Shortest Palindrome", "214. Shortest Palindrome\214. Shortest Palindrome.csproj", "{1EB6508E-2392-4EC6-ACC9-E6F0D77B2A35}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,12 +31,25 @@ Global
 		{E1E35AF7-5540-4AAB-99A3-48009A2EBBAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E1E35AF7-5540-4AAB-99A3-48009A2EBBAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E1E35AF7-5540-4AAB-99A3-48009A2EBBAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF84986A-E3CF-400A-BB50-B17D17A04F35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF84986A-E3CF-400A-BB50-B17D17A04F35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF84986A-E3CF-400A-BB50-B17D17A04F35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF84986A-E3CF-400A-BB50-B17D17A04F35}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59FC8952-E531-4481-969F-BD97015A21C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59FC8952-E531-4481-969F-BD97015A21C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59FC8952-E531-4481-969F-BD97015A21C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59FC8952-E531-4481-969F-BD97015A21C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EB6508E-2392-4EC6-ACC9-E6F0D77B2A35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EB6508E-2392-4EC6-ACC9-E6F0D77B2A35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EB6508E-2392-4EC6-ACC9-E6F0D77B2A35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EB6508E-2392-4EC6-ACC9-E6F0D77B2A35}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{1A3F77A6-AF09-4AC0-B9B3-58ECEFECA8B8} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{59FC8952-E531-4481-969F-BD97015A21C4} = {C18158F3-FF5F-436F-8B84-386919D789D4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D241B29A-3F0B-43D4-B9D7-D7F59B6A3C5B}
