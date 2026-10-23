@@ -27,6 +27,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "28. Find the Index of the F
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "459. Repeated Substring Pattern", "459. Repeated Substring Pattern\459. Repeated Substring Pattern.csproj", "{1FDA23D1-EA13-4A6D-B524-000F6782962F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3006. Find Beautiful Indices in the Given Array I", "3006. Find Beautiful Indices in the Given Array I\3006. Find Beautiful Indices in the Given Array I.csproj", "{540BC89A-3D89-40FB-B53C-19FFE1D6A671}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "187. Repeated DNA Sequences", "187. Repeated DNA Sequences\187. Repeated DNA Sequences.csproj", "{8C0D8312-5D4B-4D64-8E8A-C2643835E6E8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -73,6 +77,14 @@ Global
 		{1FDA23D1-EA13-4A6D-B524-000F6782962F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1FDA23D1-EA13-4A6D-B524-000F6782962F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1FDA23D1-EA13-4A6D-B524-000F6782962F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{540BC89A-3D89-40FB-B53C-19FFE1D6A671}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{540BC89A-3D89-40FB-B53C-19FFE1D6A671}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{540BC89A-3D89-40FB-B53C-19FFE1D6A671}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{540BC89A-3D89-40FB-B53C-19FFE1D6A671}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C0D8312-5D4B-4D64-8E8A-C2643835E6E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C0D8312-5D4B-4D64-8E8A-C2643835E6E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C0D8312-5D4B-4D64-8E8A-C2643835E6E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C0D8312-5D4B-4D64-8E8A-C2643835E6E8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
