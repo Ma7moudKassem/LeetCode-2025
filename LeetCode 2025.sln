@@ -31,6 +31,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3006. Find Beautiful Indice
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "187. Repeated DNA Sequences", "187. Repeated DNA Sequences\187. Repeated DNA Sequences.csproj", "{8C0D8312-5D4B-4D64-8E8A-C2643835E6E8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "686. Repeated String Match", "686. Repeated String Match\686. Repeated String Match.csproj", "{E68DB7AE-7A02-46A5-AB6C-2DB3DDDD0899}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "647. Palindromic Substrings", "647. Palindromic Substrings\647. Palindromic Substrings.csproj", "{06D62FB3-52C9-4D6B-84FF-E26632F92EBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3029. Minimum Time to Revert Word to Initial State I", "3029. Minimum Time to Revert Word to Initial State I\3029. Minimum Time to Revert Word to Initial State I.csproj", "{ACA7036C-6D33-495C-9CC0-54815AE35B1B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -85,6 +91,18 @@ Global
 		{8C0D8312-5D4B-4D64-8E8A-C2643835E6E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C0D8312-5D4B-4D64-8E8A-C2643835E6E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C0D8312-5D4B-4D64-8E8A-C2643835E6E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E68DB7AE-7A02-46A5-AB6C-2DB3DDDD0899}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E68DB7AE-7A02-46A5-AB6C-2DB3DDDD0899}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E68DB7AE-7A02-46A5-AB6C-2DB3DDDD0899}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E68DB7AE-7A02-46A5-AB6C-2DB3DDDD0899}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06D62FB3-52C9-4D6B-84FF-E26632F92EBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06D62FB3-52C9-4D6B-84FF-E26632F92EBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06D62FB3-52C9-4D6B-84FF-E26632F92EBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06D62FB3-52C9-4D6B-84FF-E26632F92EBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACA7036C-6D33-495C-9CC0-54815AE35B1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACA7036C-6D33-495C-9CC0-54815AE35B1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACA7036C-6D33-495C-9CC0-54815AE35B1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACA7036C-6D33-495C-9CC0-54815AE35B1B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
